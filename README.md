@@ -40,7 +40,7 @@
 ## 🚀 Setup & Installation
 ### 1️⃣ Clone the Repository
 ```
-git clone 
+git clone https://github.com/APPPYYY/SnowLedger.git
 cd Snowflake
 ```
 ### 2️⃣ Configure Snowflake Connection
